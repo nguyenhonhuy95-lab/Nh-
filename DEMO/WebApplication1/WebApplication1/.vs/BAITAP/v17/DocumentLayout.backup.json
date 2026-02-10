@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEMO01\\DEMO\\WebApplication1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\demo01\\demo\\webapplication1\\webapplication1\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\demo01\\demo\\webapplication1\\webapplication1\\webapplication1\\avatar\\anh1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\avatar\\anh1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\DEMO01\\DEMO\\WebApplication1\\WebApplication1\\WebApplication1\\Site1.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Site1.Master",
+              "ToolTip": "D:\\DEMO01\\DEMO\\WebApplication1\\WebApplication1\\WebApplication1\\Site1.Master",
+              "RelativeToolTip": "WebApplication1\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-10T01:10:44.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "anh1.jpg -  [English (United States)] - Bitmap [311x162, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\DEMO01\\DEMO\\WebApplication1\\WebApplication1\\WebApplication1\\Avatar\\anh1.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\Avatar\\anh1.jpg",
+              "ToolTip": "D:\\DEMO01\\DEMO\\WebApplication1\\WebApplication1\\WebApplication1\\Avatar\\anh1.jpg -  [English (United States)] - Bitmap [311x162, 24 bit, JPG]",
+              "RelativeToolTip": "WebApplication1\\Avatar\\anh1.jpg -  [English (United States)] - Bitmap [311x162, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-10T01:09:44.949Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [311x162, 24 bit, JPG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
