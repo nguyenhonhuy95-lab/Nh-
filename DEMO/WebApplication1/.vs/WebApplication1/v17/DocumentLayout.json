@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\demo01\\nh-\\demo\\webapplication1\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\demo01\\nh-\\demo\\webapplication1\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "default.aspx",
+              "DocumentMoniker": "D:\\DEMO01\\Nh-\\DEMO\\WebApplication1\\WebApplication1\\default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\default.aspx",
+              "ToolTip": "D:\\DEMO01\\Nh-\\DEMO\\WebApplication1\\WebApplication1\\default.aspx",
+              "RelativeToolTip": "WebApplication1\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-19T15:25:34.164Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
